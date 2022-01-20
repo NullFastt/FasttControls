@@ -1,0 +1,8 @@
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Release\HugoFastt.FasttControls.dll.config
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Release\HugoFastt.FasttControls.dll
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Release\HugoFastt.FasttControls.pdb
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Release\FasttControls.Properties.Resources.resources
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Release\FasttControls.csproj.GenerateResource.cache
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Release\FasttControls.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Release\HugoFastt.FasttControls.dll
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Release\HugoFastt.FasttControls.pdb

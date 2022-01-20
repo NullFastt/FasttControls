@@ -1,0 +1,10 @@
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Debug\FasttControls.exe.config
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Debug\FasttControls.exe
+C:\Users\x\Desktop\proyectos\FasttControls\bin\Debug\FasttControls.pdb
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.Form1.resources
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.Properties.Resources.resources
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.csproj.GenerateResource.cache
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.exe
+C:\Users\x\Desktop\proyectos\FasttControls\obj\Debug\FasttControls.pdb
